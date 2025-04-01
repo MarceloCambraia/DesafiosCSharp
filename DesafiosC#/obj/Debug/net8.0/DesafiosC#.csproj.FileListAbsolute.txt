@@ -1,0 +1,14 @@
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\bin\Debug\net8.0\DesafiosC#.exe
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\bin\Debug\net8.0\DesafiosC#.deps.json
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\bin\Debug\net8.0\DesafiosC#.runtimeconfig.json
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\bin\Debug\net8.0\DesafiosC#.dll
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\bin\Debug\net8.0\DesafiosC#.pdb
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.AssemblyInfoInputs.cache
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.AssemblyInfo.cs
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.csproj.CoreCompileInputs.cache
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.dll
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\refint\DesafiosC#.dll
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.pdb
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\DesafiosC#.genruntimeconfig.cache
+C:\Users\Glaubson\DesafiosC#\DesafiosC#\obj\Debug\net8.0\ref\DesafiosC#.dll
