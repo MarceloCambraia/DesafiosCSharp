@@ -17,7 +17,6 @@ namespace DesafiosCSharp
         {
             Random random = new Random();
 
-            // Criando funcionário PJ
             var pj = new FuncionarioPJ(
                 nome: "João Silva",
                 idade: 30,
@@ -25,7 +24,6 @@ namespace DesafiosCSharp
                 valorHora: random.Next(50, 151)
             );
 
-            // Criando funcionário PF
             var pf = new FuncionarioPF(
                 nome: "Maria Souza",
                 idade: 35,
