@@ -24,7 +24,7 @@ namespace DesafiosCSharp
             double media = (nota1 + nota2 + nota3) / 3;
             Console.WriteLine($"Média: {media:F2}");
 
-            if (media > 6.0)
+            if (media >= 6.0)
                 Console.WriteLine("Aprovado!");
             else
                 Console.WriteLine("Reprovado!");
